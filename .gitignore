@@ -10,3 +10,5 @@ data/cleaned/
 data/sections/
 data/chunks/
 experiments/retrieval_results/
+
+data/section_chunks/
