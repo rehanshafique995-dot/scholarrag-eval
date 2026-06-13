@@ -1,5 +1,5 @@
-from dense_retriever import search as dense_search, build_dense_index
-from bm25_retriever import build_bm25_index, search as bm25_search
+from src.retrieval.dense_retriever import search as dense_search, build_dense_index
+from src.retrieval.bm25_retriever import build_bm25_index, search as bm25_search
 
 
 def normalize_scores(results: list[dict]) -> list[dict]:
