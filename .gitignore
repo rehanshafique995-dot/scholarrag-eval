@@ -6,3 +6,4 @@ __pycache__/
 data/indexes/
 papers/pdfs/
 papers/parsed/
+data/cleaned/
