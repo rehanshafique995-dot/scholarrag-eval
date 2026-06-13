@@ -1,0 +1,13 @@
+pandas
+numpy
+jupyter
+pymupdf
+pdfplumber
+sentence-transformers
+faiss-cpu
+rank-bm25
+streamlit
+ragas
+python-dotenv
+tqdm
+pyyaml
