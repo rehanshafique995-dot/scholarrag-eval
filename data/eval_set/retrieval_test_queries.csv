@@ -1,0 +1,11 @@
+query_id,question,query_type,expected_relevant_papers,notes
+Q001,"What is retrieval augmented generation?","local","P001;P003","Basic RAG definition"
+Q002,"Which metrics are used to evaluate RAG systems?","local","P002;P004;P005","Evaluation metrics"
+Q003,"How does citation verification help reduce hallucination?","conceptual","P006","Citation support and attribution"
+Q004,"How does GraphRAG answer global questions over a corpus?","global","P009","Global corpus-level reasoning"
+Q005,"What problem does Lost in the Middle identify?","local","P010","Long-context weakness"
+Q006,"How does Self-RAG decide when to retrieve?","local","P007","Adaptive retrieval"
+Q007,"What does Corrective RAG do when retrieval is poor?","local","P008","Retrieval correction"
+Q008,"Compare dense retrieval and BM25 in RAG systems.","comparative","P001;P002;P003;P004","Retriever comparison"
+Q009,"What are common limitations of RAG evaluation frameworks?","comparative","P002;P004;P005","Evaluation limitations"
+Q010,"Why is hybrid retrieval useful for academic literature review?","conceptual","P001;P003;P004;P005","Dense plus keyword retrieval"
