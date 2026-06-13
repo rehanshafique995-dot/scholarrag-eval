@@ -12,3 +12,5 @@ data/chunks/
 experiments/retrieval_results/
 
 data/section_chunks/
+
+experiments/generation_results/
